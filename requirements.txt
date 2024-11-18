@@ -9,6 +9,6 @@ pyrender>=0.1.43
 smplx>=0.1.21
 threadpoolctl>=2.1.0
 torch>=1.6.0
-torchvision>=0.7.0+cu101
+torchvision>=0.12.0
 tqdm>=4.48.2
 trimesh>=3.8.1
